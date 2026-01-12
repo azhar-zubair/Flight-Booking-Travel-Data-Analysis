@@ -105,5 +105,3 @@ The dashboard provides the following key analyses:
 
 ## 👤 Author
 **AZHAR ZUBAIR**
-
-Just tell me 🚀
